@@ -73,3 +73,41 @@ header{
 .fa-solid{
    color: #16D887;
 }
+
+/* plan section styles */
+
+.plan-section{
+
+}
+.plan-title{
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 130px;
+    color: #151414;
+    align-items: center;
+    text-align:center
+    
+    
+}
+.plan-container{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 80px 130px;
+}
+.plan-item{
+    margin-top: 50px;
+    text-align: center;
+    margin-right: 20px;
+    /* margin: 50px 50px; */
+}
+.plan-item-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+}
+.plan-item-description{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
