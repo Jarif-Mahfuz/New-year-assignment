@@ -24,14 +24,14 @@ header{
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     margin-bottom: 15px;
     text-align: right;
-    padding: 200px 50px 0 550px;
+    padding: 200px 70px 0 550px;
 }
 .header-description{
     font-size: 16px;
     color: #444343;
     /* width: 50%; */
     margin-bottom: 30px;
-    padding: 0 50px 0 700px;
+    padding: 0 70px 0 700px;
 }
 .btn-primary{
     background: #F15B22;
@@ -41,7 +41,7 @@ header{
     font-weight: 600;
     font-size: 20px;
     padding: 15px 15px;
-    margin-right: 50px;
+    margin-right: 70px;
 }
 
 /* failure section styles */
@@ -115,6 +115,39 @@ header{
     font-weight: 500;
     font-size: 25px;
     color: #737272;
+}
+
+/* about me section style */
+.about-me{
+    
+        /* background: #FFF8F3; */
+        border-radius: 10px;
+        padding: 130px 150px;
+        text-align: center;
+        margin-top: 30px;
+}
+.about-me-title{
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 20px;
+    color: #181818;
+}
+.about-me-description{
+    color: #757575;
+    margin-bottom: 20px;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.info-title{
+    color: #757575;
+    font-size: 20px;
+}
+.info-description{
+    color: #474747;
+    font-weight: 700;
+    font-size: 20px;
 }
 
 /* positive section style */
